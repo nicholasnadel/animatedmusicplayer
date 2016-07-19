@@ -1227,6 +1227,17 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
+	"\/assets\/img\/big-spinner copy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61453,
+		"inputAbbreviatedPath": "\/assets\/img\/big-spinner copy.png",
+		"outputAbbreviatedPath": "\/assets\/img\/big-spinner copy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/big-spinner.png": {
 		"fileType": 32768,
 		"ignore": 0,
